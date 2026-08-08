@@ -1,0 +1,1 @@
+Put your edited image in assets/profile.png
